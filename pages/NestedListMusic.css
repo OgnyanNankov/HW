@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/music\ for\ reading.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: italic;
+}
+ol li {
+    color: black;
+    padding: 5px;
+    margin-left: 35px;
+    list-style: decimal;
+    font: 20px 'trebuchet MS', 'lucida sans';
+  }
+  
+  ul li {
+    color: black;
+    margin: 5px;
+  }

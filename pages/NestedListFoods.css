@@ -1,5 +1,7 @@
 body {
-    background-image: url("../images/seafood.jfif");
+    background-image: url("../images/seafood.png");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
 h1 {
